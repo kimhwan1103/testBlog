@@ -1,11 +1,13 @@
-Gem::Specification.new do |spec|
-  spec.name          = "jekyll-lin"
-  spec.version       = "1.0.1"
-  spec.authors       = ["Sergey Sokurenko"]
-  spec.email         = ["email@example.com"]
+# frozen_string_literal: true
 
-  spec.summary       = "A beautiful, minimal theme for Jekyll based on lin.css"
-  spec.homepage      = "https://github.com/ssokurenko/jekyll-lin-theme"
+Gem::Specification.new do |spec|
+  spec.name          = "minima"
+  spec.version       = "2.5.0"
+  spec.authors       = ["Joel Glovier"]
+  spec.email         = ["jglovier@github.com"]
+
+  spec.summary       = "A beautiful, minimal theme for Jekyll."
+  spec.homepage      = "https://github.com/jekyll/minima"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"

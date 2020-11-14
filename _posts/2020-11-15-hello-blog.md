@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "hello blog"
 data: 2020-11-15-15 04:09:30 +0000
 categoris: [잡다한 것]

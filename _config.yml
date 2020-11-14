@@ -1,8 +1,8 @@
-title: "Hwan blog"
+title: Hwan blog
 author: Hwan
-  name: "Hwan kim"
-  email: rlaghks1103@gmail.com
-description: "study blog"
+name: Hwan kim
+email: rlaghks1103@gmail.com
+description: study blog
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format

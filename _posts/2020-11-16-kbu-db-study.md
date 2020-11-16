@@ -34,7 +34,7 @@ date: 2020-11-16
 
 
 ## 데이터베이스 설계 단계 
-![db_design](../img/db_design.jpg)
+![db_design]({{"../img/db_design.jpg"|relative_url}})
 
 ### 1. 요구 조건 분석 
 사용자가 원하는 데이터베이스의 용도를 파악하는 단계이다.
